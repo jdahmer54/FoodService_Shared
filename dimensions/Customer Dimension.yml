@@ -1,4 +1,4 @@
-unique_name: Customer Dimension
+unique_name: Customer Dimension1
 object_type: dimension
 label: Customer
 description: 'Customer ship-to accounts: Customer Type (Local vs National) > Segment > Parent Account > Customer.'
