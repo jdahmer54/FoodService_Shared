@@ -1,4 +1,4 @@
-unique_name: dim_customer
+unique_name: dim_customer1
 object_type: dataset
 label: dim_customer
 description: 'Customer ship-to accounts: Local vs National type, segment, parent account, size tier.'
